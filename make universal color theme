@@ -1,0 +1,10 @@
+This is theme color of the website and any web application. In this we care for the color combination used which is the ui interface of the web site.
+The thing that I only need is to use the button that which change the entire color of the web site. Now, I know the way to do this. 
+This is done by adding color file color.json or databse creation that store the parent color. 
+color.json
+
+{
+  "color": "#355454"
+  "status": "true/false"
+} 
+By using this we can change the color of whole site.
